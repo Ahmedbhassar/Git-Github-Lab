@@ -14,7 +14,7 @@
 
 | **Structured** | **Semi-structured** | **Unstructured** |
 |----------------|---------------------|------------------|
-|It the data has been organized into a strict schema | it the data does not conform to a schema but has some structure | It is data that has no schema |
+|Its the data has been organized into a strict schema | its the data does not conform to a schema but has some structure | It is data that has no schema |
 | **e.g: Tables** | **e.g: XML** | **e.g: Photos** |
 
 ```Python
