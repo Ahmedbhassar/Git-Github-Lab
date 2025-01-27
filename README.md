@@ -1,23 +1,21 @@
 # Data Science
 
-## What is Data Science?
+## Whas is Data Science?
 
-**Data Science** is a *multidisciplinary field* that combines statistics, computer science, and domain knowledge.
+**Data Science** is a *multidisciplinary field* that combines statistics, computer scinece and domain knowledge.
 
-![DS.png](DS.png)
+![DS.PNG](DS.PNG)
 
-### Data Types
+### Data Types:
 
 - Structured Data
-- Semi-Structured Data
+- Semi-structured Data
 - Unstructured Data
 
-#### Data Types Table
+| **Structured** | **Semi-structured** | **Unstructured** |
+|----------------|---------------------|------------------|
+|It the data has been organized into a strict schema | it the data does not conform to a schema but has some structure | It is data that has no schema |
+| **e.g: Tables** | **e.g: XML** | **e.g: Photos** |
 
-| **Structured**               | **Semi-Structured**             | **Unstructured**        |
-|-------------------------------|----------------------------------|--------------------------|
-| Data organized into a schema | Data with partial structure     | Data with no structure  |
-| Example: Tables              | Example: XML files              | Example: Photos         |
-
-```python
-print("DS Bootcamp")
+```Python
+print("Hello world, this is Ahmed")
